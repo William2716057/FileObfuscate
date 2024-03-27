@@ -20,6 +20,6 @@ The file is saved as decrypted.txt.
 
 Recompile Decrypted File:
 
-Contents of decrypted.txt are read
+Contents of decrypted.txt are read.
 The function converts the contents of decrypted.txt back into it's original form and saves as recompiled.
 The user must add correct extension type to make file usable.
