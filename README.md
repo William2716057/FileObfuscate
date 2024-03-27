@@ -1,6 +1,6 @@
 
 A simple Python script that performs file obfuscation and deobfuscation using hex data of files and the Vigenere Cipher. 
-This is performed using several functions to perform each step
+This is performed using several functions to achieve each step
 
 Read the file in binary mode ('rb').
 
